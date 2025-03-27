@@ -1,4 +1,4 @@
-# Mum-Assignment
+# Mumbai-Assignment
 
 ## 📌 Project Overview
 This project is a full-stack web application for managing products. It consists of a **React.js frontend** and an **Express.js backend** with a MongoDB database. The application provides user authentication, product management, and a structured API.
@@ -8,7 +8,7 @@ This project is a full-stack web application for managing products. It consists 
 - Add, update, and view products
 - Protected routes for authenticated users
 - REST API for user and product management
-- Responsive UI with Tailwind CSS
+- Responsive UI with Tailwind CSS and Material UI
 
 ## 🏗️ Tech Stack
 ### Frontend
