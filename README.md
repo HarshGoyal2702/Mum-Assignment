@@ -8,7 +8,7 @@ This project is a full-stack web application for managing products. It consists 
 - Add, update, and view products
 - Protected routes for authenticated users
 - REST API for user and product management
-- Responsive UI with Tailwind CSS
+- Responsive UI with Tailwind CSS and Material UI
 
 ## 🏗️ Tech Stack
 ### Frontend
